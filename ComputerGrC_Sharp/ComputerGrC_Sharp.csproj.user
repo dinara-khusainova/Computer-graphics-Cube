@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Users\Dinara\source\repos\ComputerGrC_Sharp\packages\CSFML.2.5.2\runtimes\win-x64\native\;C:\Users\Dinara\source\repos\ComputerGrC_Sharp\packages\SFML.Audio.2.5.1\lib\netstandard2.0\;C:\Users\Dinara\source\repos\ComputerGrC_Sharp\packages\SFML.Graphics.2.5.1\lib\netstandard2.0\;C:\Users\Dinara\source\repos\ComputerGrC_Sharp\packages\SFML.Net.2.5.1\;C:\Users\Dinara\source\repos\ComputerGrC_Sharp\packages\SFML.System.2.5.1\lib\netstandard2.0\;C:\Users\Dinara\source\repos\ComputerGrC_Sharp\packages\SFML.Window.2.5.1\lib\netstandard2.0\</ReferencePath>
+  </PropertyGroup>
+</Project>
